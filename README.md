@@ -13,6 +13,7 @@ Proyecto GastoSemanal: trabajado desde Udemy - El proyecto viene con una estruct
 - HTML5
 - CSS3
 - JS(Javascript)
+- IndexedDB
 
 - **Udemy**:
     - Proyecto de práctica para mejorar skills.
