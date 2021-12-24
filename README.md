@@ -1,6 +1,6 @@
 # admCitasPacientes
 
-# #simuladordeSeguros
+# #simulador
 
 ### [Administrador de citas para pacientes](https://megagringa.github.io/admCitasPacientes/index.html)
 
