@@ -1,8 +1,8 @@
 # #admCitasPacientes
 
-### [Administrador de citas para pacientes](https://megagringa.github.io/admCitasPacientes/index.html)
+### [Administrador de citas para pacientes para veterinaria](https://megagringa.github.io/admCitasPacientes/index.html)
 
-Proyecto adm de citas para pacientes - El proyecto viene con una estructura armada en html y css - 
+Proyecto adm de citas para pacientes para veterinaria - El proyecto viene con una estructura armada en html y css - 
          Solo se implementa js para desarrollar y aprender. 
 
 
